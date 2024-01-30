@@ -1,0 +1,9 @@
+*.jar
+.classpath
+.DS_Store
+.project
+native/
+.settings/
+bin/
+*.class
+data/scores.txt
